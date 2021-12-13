@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="css/error.css" rel="stylesheet">
+  
+  
+
+  
+<link rel="stylesheet" href="">
+  <title>404 - Not Found</title>
+</head>
+<body>
+
+  
+  <div class="box">
+  <div class="box__ghost">
+    <div class="symbol"></div>
+    <div class="symbol"></div>
+    <div class="symbol"></div>
+    <div class="symbol"></div>
+    <div class="symbol"></div>
+    <div class="symbol"></div>
+    
+    <div class="box__ghost-container">
+      <div class="box__ghost-eyes">
+        <div class="box__eye-left"></div>
+        <div class="box__eye-right"></div>
+      </div>
+      <div class="box__ghost-bottom">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+    </div>
+    <div class="box__ghost-shadow"></div>
+  </div>
+  
+  <div class="box__description">
+    <div class="box__description-container">
+      <div class="box__description-title">Opps! 404 </div>
+      <div class="box__description-text">Lo sentimos, la pagina que buscas no existe</div>
+    </div>
+    
+    <a href="https://securebytes.co/" target="_blank" class="box__button">Volver</a>
+    
+  </div>
+  
+</div>
+  <script src="js/jquery-3.6.0.min.js"></script>
+  <script src="js/phantom.js"></script>
+</body>
+<footer></footer>
+
+<!---->
+
+
+</html>
